@@ -1,7 +1,7 @@
 # multiLangApp
 Multi Language App based on angular 6.
 
-![alt text](img/multilang.PNG)
+![alt text](img/multilang.png)
 
 
 ## Demo
