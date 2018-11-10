@@ -1,0 +1,33 @@
+<header>
+  <div class='row header'>
+    <div class="col-sm-12"> 
+      <nav class="navbar navbar-static-top custom_nav" role="navigation" style="margin-bottom: 0">   
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="navbar-brand" href="#">
+            <label>{{"header.Title" | translate}}</label>
+          </a>
+        </div>
+        <!-- /.navbar-header -->
+        <ul class="nav navbar-top-links navbar-right">
+          <li>Your Language: {{ currentLang }}</li>
+          <li class="dropdown">
+            <select name="language" id="" class="form-control" (change)="changeLanguage($event.target.value)">
+              <option value="en">{{"common.lang.en" | translate}}</option>
+              <option value="fr">{{"common.lang.fr" | translate}}</option>
+              <option value="ge">{{"common.lang.ge" | translate}}</option>
+              <option value="ja">{{"common.lang.ja" | translate}}</option>
+            </select>
+          </li>
+          <!-- /.dropdown -->
+        </ul>
+      </nav>
+    </div>
+  </div>
+</header>  
+  

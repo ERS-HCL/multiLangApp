@@ -1,0 +1,16 @@
+.header a.navbar-brand{font-family:ro-ligh;font-size:2em;color:#fff}
+.nav.navbar-top-links {padding-top:5px}
+.navbar-brand label{font-weight: 100}
+.navbar-toggle{margin-top:15px;margin-right:0}
+.navbar-toggle .icon-bar{background:#fff}
+.header{background:#2e60a8;color:#fff;padding:0 10px}
+.head er a{color:#fff}
+.nav .open>a, .nav .open>a:focus, .nav .open>a:hover{color:#fff;background:none}
+.header ul.nav.navbar-right li{border-right:1px solid #4d7fc7;padding-right:15px}
+.header ul.nav.navbar-right li:last-child{border:none;padding-right:0}
+.header ul.nav.navbar-right li, .header ul.nav.navbar-right li a{display:inline-block;color:#8cafd2}
+.header ul.nav.navbar-right li ul li{border:none;padding:0}
+.header ul.nav.navbar-right li ul li, .header ul.nav.navbar-right li ul li a{display:block;color:#000}
+/* .header ul.nav.navbar-right li.dropdown{float:left} */
+.header a{color:#8cafd2}
+.nav>li>a:focus, .nav>li>a:hover{background:none}

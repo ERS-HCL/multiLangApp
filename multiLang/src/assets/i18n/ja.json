@@ -1,0 +1,19 @@
+{
+	"common": {
+		"lang": {
+			"en": "English",
+			"fr": "français",
+			"ge": "Deutsche",
+			"ja": "日本人"
+		}		
+    },
+    "header": {
+		"Title":"マルチラングアプリ"		
+	},
+	"container": {
+		"welocomeMsg": "アプリへようこそ",
+		"username": "ユーザー名",
+		"password": "パスワード",
+		"bodyMsg": "このページでは、アプリのマルチ言語機能が強調表示され、データは送信されません"
+	}
+}

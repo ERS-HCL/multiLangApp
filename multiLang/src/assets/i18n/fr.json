@@ -1,0 +1,19 @@
+{
+	"common": {
+		"lang": {
+			"en": "English",
+			"fr": "français",
+			"ge": "Deutsche",
+			"ja": "日本人"
+		}		
+    },
+    "header": {
+		"Title":"Multi Lang App"		
+	},
+	"container": {
+		"welocomeMsg": "Bienvenue sur App",
+		"username": "Nom d'utilisateur",
+		"password": "mot de passe",
+		"bodyMsg": "La page met en évidence la fonctionnalité multilingue de l'application et ne soumet pas vos données."
+	}
+}
